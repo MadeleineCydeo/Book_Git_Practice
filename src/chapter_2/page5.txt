@@ -3,3 +3,5 @@ Hello World!
 My name is Bubbles and I live in San Diego.
 
 I have a lot of hobbies and interests.
+
+editor: add specific hobbies and interests to this file.
